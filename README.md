@@ -17,33 +17,13 @@ Onze visie is een wereld waarin elk individu toegang heeft tot de hulpmiddelen, 
 - **Gemeenschap**: Wij geloven in de kracht van gemeenschap en samenwerking om positieve verandering te bewerkstelligen.
 
 ### 🌍 Projecten
-
-1. **Natuurlijke Geneeswijzen Workshops** 🌿
-   - **Beschrijving**: Maandelijkse workshops waarin experts in natuurlijke geneeswijzen hun kennis en vaardigheden delen over kruidengeneeskunde, aromatherapie, en meer.
-
-2. **Duurzame Landbouw Initiatieven** 🌾
-   - **Beschrijving**: Samenwerking met lokale boeren om duurzame landbouwpraktijken te bevorderen, inclusief permacultuur en biodynamische landbouw.
-
-3. **Meditatie en Yoga Retreats** 🧘
-   - **Beschrijving**: Jaarlijkse retraites in serene natuurgebieden, gericht op diepe innerlijke transformatie en verbinding met de natuur.
-
-4. **Eco-Bouw Workshops** 🏡
-   - **Beschrijving**: Workshops over duurzame bouwtechnieken, zoals aarden huizen en strobalen bouw.
-
-5. **Wildpluk Excursies** 🍄
-   - **Beschrijving**: Geleide tochten in lokale natuurgebieden om eetbare planten en paddenstoelen te leren kennen.
-
-6. **Groene Technologie Demonstraties** 💡
-   - **Beschrijving**: Demonstraties van de nieuwste groene technologieën, zoals zonne-energie en regenwateropvang.
-
-7. **Kunst en Ambacht van de Natuur** 🎨
-   - **Beschrijving**: Creatieve workshops waarin deelnemers leren om kunst en ambachten te maken met natuurlijke materialen.
-
-8. **Kinderen in de Natuur Programma** 🧒
-   - **Beschrijving**: Educatieve activiteiten en kampen voor kinderen, gericht op natuurbehoud en -bewustzijn.
-
-9. **Zero Waste Workshops** ♻️
-   - **Beschrijving**: Workshops over afvalvrije praktijken, compostering en duurzaam leven.
-
-10. **Community Healing Circles** 🌕
-   - **Beschrijving**: Maandelijkse bijeenkomsten voor meditatie, delen en ondersteuning binnen de gemeenschap.
+1. [Natuurlijke Geneeswijzen Workshops 🌿](projecten/natuurlijke-geneeswijzen-workshops/README.md)
+2. [Duurzame Landbouw Initiatieven 🌾](projecten/duurzame-landbouw-initiatieven/README.md)
+3. [Meditatie en Yoga Retreats 🧘](projecten/meditatie-yoga-retreats/README.md)
+4. [Eco-Bouw Workshops 🏡](projecten/eco-bouw-workshops/README.md)
+5. [Wildpluk Excursies 🍄](projecten/wildpluk-excursies/README.md)
+6. [Groene Technologie Demonstraties 💡](projecten/groene-technologie-demonstraties/README.md)
+7. [Kunst en Ambacht van de Natuur 🎨](projecten/kunst-ambacht-natuur/README.md)
+8. [Kinderen in de Natuur Programma 🧒](projecten/kinderen-natuur-programma/README.md)
+9. [Zero Waste Workshops ♻️](projecten/zero-waste-workshops/README.md)
+10. [Community Healing Circles 🌕](projecten/community-healing-circles/README.md)
