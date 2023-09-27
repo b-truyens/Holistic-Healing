@@ -2,6 +2,7 @@
 
 # Hoofdmap aanmaken
 mkdir -p projecten
+mkdir -p Docs/Screens
 
 # Submappen aanmaken binnen de hoofdmap 'projecten'
 cd projecten
